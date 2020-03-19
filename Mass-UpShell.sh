@@ -19,7 +19,7 @@ cat << "EOF"
        |,---"-----------------------------"---,|
        ||___    C:/user/bot...........[-÷x]   ||
        ||====\ :HHHHHHHHHHHHHHHHHHHHHHHHHHH   ||
-       ||=====):H > Recoded By JEx-Coderd H   ||
+       ||=====):H > Recoded By JEx-Coders H   ||
        ||====/ :H >        MASERCE        H   ||
        ||"""   :H >    [  JavaGhost  ]    H   ||
        ||      :H >   [  XploitSec-ID  ]  H   ||
